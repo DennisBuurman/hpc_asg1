@@ -1,0 +1,26 @@
+%%MatrixMarket matrix coordinate real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/HB/arc130
+% name: HB/arc130
+% [UNSYMMETRIC MATRIX FROM LASER PROBLEM. A.R.CURTIS, OCT 1974]
+% id: 6
+% date: 1974
+% author: A. Curtis
+% ed: A. Curtis, I. Duff, J. Reid
+% fields: title A Zeros name id date author ed kind
+% kind: materials problem
+%-------------------------------------------------------------------------------
+5 5 12
+1 1 1.0
+2 1 2.0
+3 2 3.0
+4 2 4.0
+5 2 5.0
+1 3 6.0
+4 3 7.0
+1 4 8.0
+2 4 9.0
+5 4 10.0
+1 5 11.0
+5 5 12.0

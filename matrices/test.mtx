@@ -1,0 +1,20 @@
+%%MatrixMarket matrix coordinate real symmetric
+%-------------------------------------------------------------------------------
+% name: test
+% [Test matrix HPC assignment 1]
+% id: 1
+% date: 2022
+% author: D. Buurman
+% ed: D. Buurman
+% fields: title A name id date author ed kind
+% kind: LU factorization example
+%-------------------------------------------------------------------------------
+3 3 8
+1 1 1.0
+2 1 2.0
+3 1 3.0
+1 2 4.0
+2 2 5.0
+3 2 6.0
+1 3 7.0
+2 3 8.0
